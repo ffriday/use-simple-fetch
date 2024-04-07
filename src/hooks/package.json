@@ -1,0 +1,26 @@
+{
+  "name": "use-simple-fetch",
+  "version": "1.0.0",
+  "description": "useSimpleFetch hook",
+  "main": "use-simple-fetch.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffriday/use-simple-fetch.git"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "author": "Dmitry Bulgakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffriday/use-simple-fetch/issues"
+  },
+  "homepage": "https://github.com/ffriday/use-simple-fetch#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
