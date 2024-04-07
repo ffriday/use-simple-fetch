@@ -1,6 +1,6 @@
 {
   "name": "use-simple-fetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "useSimpleFetch hook",
   "main": "use-simple-fetch.ts",
   "scripts": {
