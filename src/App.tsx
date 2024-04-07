@@ -7,8 +7,6 @@ function App() {
   const [inputValue, setInputValue] = useState("https://api.publicapis.org/entries");
   const [url, setUrl] = useState("https://api.publicapis.org/entries");
   const { data, isFetching, isError, error, refetch } = useFetch(url);
-  console.log({ data, isFetching, isError, error, refetch });
-  console.log(inputValue);
 
   return (
     <>
